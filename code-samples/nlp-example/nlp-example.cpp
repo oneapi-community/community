@@ -1,6 +1,6 @@
 #include <iostream>
-#include <CL/sycl.hpp>
-#include "oneapi/dnnl.hpp"
+/*#include <CL/sycl.hpp>*/
+#include <oneapi/dnnl/dnnl.hpp>
 
 int main() {
     constexpr auto batch_size = 32;
