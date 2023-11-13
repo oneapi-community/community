@@ -1,3 +1,11 @@
 # community
 
-This repository is for the community to contribute code samples, documentation, and tips and help others on their oneAPI projects.
+Welcome to the oneAPI community! This is your guide to knowing about
+oneAPI, where to find resources to learn about what oneAPI and what it
+can do, sample code, interesting projects that use oneAPI, and how to
+start your own project.
+
+## What is oneAPI?
+
+
+
